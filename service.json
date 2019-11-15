@@ -1,0 +1,42 @@
+{
+	"bustime-response": {
+		"prd": [
+			{
+				"tmstmp": "20190922 12:16",
+				"typ": "A",
+				"stpnm": "Washtenaw + Huron Pkwy",
+				"stpid": "362",
+				"vid": "506",
+				"dstp": 17314,
+				"rt": "4",
+				"rtdd": "4",
+				"rtdir": "TO BTC",
+				"des": "A Washtenaw to BTC",
+				"prdtm": "20190922 12:26",
+				"tablockid": "34",
+				"tatripid": "322022",
+				"dly": false,
+				"prdctdn": "10",
+				"zone": ""
+			},
+			{
+				"tmstmp": "20190922 12:16",
+				"typ": "A",
+				"stpnm": "Washtenaw + Huron Pkwy",
+				"stpid": "362",
+				"vid": "",
+				"dstp": 0,
+				"rt": "4",
+				"rtdd": "4",
+				"rtdir": "TO BTC",
+				"des": "A Washtenaw to BTC",
+				"prdtm": "20190922 12:50",
+				"tablockid": "24",
+				"tatripid": "322014",
+				"dly": false,
+				"prdctdn": "33",
+				"zone": ""
+			}
+		]
+	}
+}

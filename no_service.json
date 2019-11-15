@@ -1,0 +1,11 @@
+{
+	"bustime-response": {
+		"error": [
+			{
+				"rt": "4",
+				"stpid": "362",
+				"msg": "No service scheduled"
+			}
+		]
+	}
+}
